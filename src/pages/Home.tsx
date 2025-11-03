@@ -3,29 +3,29 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-import "../styles/swiper.css";
+import "../Styles/swiper.css";
 
 // Tus imágenes reales
 import foto1 from "/t-1.jpg";
 import foto2 from "/t-2.jpg";
-import foto3 from "../../public/t-3.jpg";
-import foto4 from "../../public/t-4.jpg";
-import foto5 from "../../public/t-5.jpg";
-import foto6 from "../../public/t-6.jpg";
-import foto7 from "../../public/t-7.jpg";
-import foto8 from "../../public/t-8.jpg";
-import foto9 from "../../public/t-9.jpg";
-import foto10 from "../../public/t-10.jpg";
-import foto11 from "../../public/t-11.jpg";
-import foto12 from "../../public/t-12.jpg";
-import foto13 from "../../public/t-13.jpg";
-import foto14 from "../../public/t-14.jpg";
-import foto15 from "../../public/t-15.jpg";
-import foto16 from "../../public/t-16.jpg";
-import foto17 from "../../public/t-17.jpg";
-import foto18 from "../../public/t-18.jpg";
-import foto19 from "../../public/t-16.jpg";
-import foto20 from "../../public/t-17.jpg";
+import foto3 from "/t-3.jpg";
+import foto4 from "/t-4.jpg";
+import foto5 from "/t-5.jpg";
+import foto6 from "/t-6.jpg";
+import foto7 from "/t-7.jpg";
+import foto8 from "/t-8.jpg";
+import foto9 from "/t-9.jpg";
+import foto10 from "/t-10.jpg";
+import foto11 from "/t-11.jpg";
+import foto12 from "/t-12.jpg";
+import foto13 from "/t-13.jpg";
+import foto14 from "/t-14.jpg";
+import foto15 from "/t-15.jpg";
+import foto16 from "/t-16.jpg";
+import foto17 from "/t-17.jpg";
+import foto18 from "/t-18.jpg";
+import foto19 from "/t-16.jpg";
+import foto20 from "/t-17.jpg";
 import foto21 from "/t-18.jpg";
 
 export default function Home() {
