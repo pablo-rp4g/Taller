@@ -1,5 +1,5 @@
 export default function WhatsappButton() {
-  const phone = "56962458897";
+  const phone = "56952097567";
   const text = encodeURIComponent(
     "Hola, necesito servicio de aire acondicionado para mi auto."
   );

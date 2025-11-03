@@ -17,7 +17,7 @@ export default function Footer() {
         </div>
 
         <div className="text-sm">
-          <p>📞 WhatsApp: +56 9 6245 8897</p>
+          <p>📞 WhatsApp: +56 9 5209 7567</p>
           <p>📍 {direccion}</p>
           <p>🕒 Lun-Sáb 09:00 - 19:00</p>
         </div>

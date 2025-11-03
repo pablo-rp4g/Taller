@@ -65,11 +65,11 @@ export default function Navbar() {
               Servicios
             </NavItem>
           </li>
-          <li>
+          {/* <li>
             <NavItem to="/agendar" onClick={closeMenu}>
               Agendar
             </NavItem>
-          </li>
+          </li> */}
           <li>
             <NavItem to="/contacto" onClick={closeMenu}>
               Contacto
@@ -83,7 +83,7 @@ export default function Navbar() {
           className="hidden sm:inline-block bg-cyan-400 text-black font-semibold text-sm px-4 py-2 rounded-xl hover:bg-white transition"
           onClick={closeMenu}
         >
-          Reserva
+          Agendar
         </Link>
 
         {/* Botón hamburguesa (mobile) */}

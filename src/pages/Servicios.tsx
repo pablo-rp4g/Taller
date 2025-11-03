@@ -20,7 +20,7 @@ export default function Servicios() {
             Agenda diagnóstico
           </a>
           <a
-            href="https://wa.me/56962458897?text=Hola%20necesito%20consultar%20por%20el%20servicio%20de%20aire%20acondicionado%20del%20auto"
+            href="https://wa.me/56952097567?text=Hola%20necesito%20consultar%20por%20el%20servicio%20de%20aire%20acondicionado%20del%20auto"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-black font-semibold px-6 py-3 rounded-xl hover:bg-white transition text-sm text-center"
@@ -172,7 +172,7 @@ export default function Servicios() {
             </p>
 
             <a
-              href="https://wa.me/56962458897?text=Hola%20mi%20compresor%20hace%20ruido%20y%20ya%20no%20enfr%C3%ADa"
+              href="https://wa.me/56952097567?text=Hola%20mi%20compresor%20hace%20ruido%20y%20ya%20no%20enfr%C3%ADa"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-green-500 text-black font-semibold px-4 py-2 rounded-xl hover:bg-white transition text-center"
@@ -201,7 +201,7 @@ export default function Servicios() {
             Agendar revisión
           </a>
           <a
-            href="https://wa.me/56962458897?text=Hola%20tengo%20un%20problema%20con%20mi%20aire%20acondicionado%20del%20auto%20y%20no%20s%C3%A9%20qu%C3%A9%20es"
+            href="https://wa.me/56952097567?text=Hola%20tengo%20un%20problema%20con%20mi%20aire%20acondicionado%20del%20auto%20y%20no%20s%C3%A9%20qu%C3%A9%20es"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-black font-semibold px-6 py-3 rounded-xl hover:bg-white transition text-sm text-center"

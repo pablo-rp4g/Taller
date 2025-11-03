@@ -2,7 +2,7 @@ export default function Contacto() {
   // Tus datos reales
   const direccion = "Abtao 46, Estación Central";
   const whatsappLink =
-    "https://wa.me/56962458897?text=Hola%20quiero%20cotizar%20servicio%20de%20aire%20acondicionado%20para%20mi%20auto";
+    "https://wa.me/56952097567?text=Hola%20quiero%20cotizar%20servicio%20de%20aire%20acondicionado%20para%20mi%20auto";
 
   return (
     <main className="px-6 py-16 max-w-5xl mx-auto">
@@ -39,7 +39,7 @@ export default function Contacto() {
                 rel="noopener noreferrer"
                 className="text-cyan-400 hover:text-white transition font-semibold"
               >
-                +56 9 6245 8897
+                +56 9 5209 7567
               </a>
             </li>
 

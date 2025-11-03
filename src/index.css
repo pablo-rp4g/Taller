@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* tus estilos extra, si tienes */
 body {
-  @apply bg-black text-white antialiased;
+  @apply bg-black text-white;
 }
-
